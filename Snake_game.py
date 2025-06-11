@@ -2,10 +2,8 @@ import pygame
 import time
 import random
 
-# Initialize pygame
 pygame.init()
 
-# Screen dimensions
 width = 600
 height = 400
 
